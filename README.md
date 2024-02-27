@@ -1,6 +1,6 @@
-# first
+# notesflutter
 
-A new Flutter project.
+This is a basic notes app made by using flutter framework.
 
 ## Getting Started
 
